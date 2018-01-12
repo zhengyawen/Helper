@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HQ_Help
 冲顶大会辅助答题工具,帮助你更好答题（可能也会帮倒忙，哈哈哈）
 此工具是从接口获取题目及选项，然后采取三种方式检索答案
@@ -22,3 +23,6 @@ pip install requests
 
 
 > 代码参考来源有：se4/cddh,Skyexu/TopSup
+=======
+# Helper
+>>>>>>> 8e2398bcdc7d8a7dd506a24dfd1a24f93a5862be
